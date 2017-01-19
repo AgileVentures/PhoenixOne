@@ -23,3 +23,7 @@
 <hr>
 ## `Daily-Update-2017-01-17`
 ![Daily-Update-2017-01-17](https://www.dropbox.com/s/zui745cqvjwq7jg/daily-update-2017-01-17.png?dl=1)
+
+<hr>
+## `Daily-Update-2017-01-18`
+![Daily-Update-2017-01-18](https://www.dropbox.com/s/o9oxdu2cfu05veh/daily-update-2017-01-18.png?dl=1)
