@@ -51,3 +51,7 @@
 <hr>
 ## `Daily-Update-2017-01-26`
 ![Daily-Update-2017-01-26](https://www.dropbox.com/s/bvpxwcnvkh6waw4/daily-update-2017-01-26.png?dl=1)
+
+<hr>
+## `Daily-Update-2017-01-28`
+![Daily-Update-2017-01-28](https://www.dropbox.com/s/43viqrixgse70k0/daily-update-2017-01-28.png?dl=1)
