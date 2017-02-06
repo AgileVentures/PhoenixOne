@@ -1,6 +1,10 @@
 # PhoenixOne Documentation Mini-Sprint
 
 <hr>
+## `Latest-Daily-Update`
+![Latest-Daily-Update](https://www.dropbox.com/s/u0ffuezt0ez915b/Daily-Update-2017-02-05.png?dl=1)
+
+<hr>
 ## `Mini-Sprint-Kickoff-Overview`
 ![Mini-Sprint-Kickoff-Overview](https://www.dropbox.com/s/ad84e5pryz1lrat/mini-sprint-kickoff-overview.png?dl=1)
 
@@ -63,3 +67,7 @@
 <hr>
 ## `Daily-Update-2017-02-03`
 ![Daily-Update-2017-02-03](https://www.dropbox.com/s/kizcmbdjcfa8qld/Daily-Update-2017-02-03.png?dl=1)
+
+<hr>
+## `Daily-Update-2017-02-05`
+![Daily-Update-2017-02-05](https://www.dropbox.com/s/u0ffuezt0ez915b/Daily-Update-2017-02-05.png?dl=1)
