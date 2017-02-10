@@ -2,7 +2,7 @@
 
 <hr>
 ## `Latest-Daily-Update`
-![Latest-Daily-Update](https://www.dropbox.com/s/u0ffuezt0ez915b/Daily-Update-2017-02-05.png?dl=1)
+![Latest-Daily-Update](https://www.dropbox.com/s/bdjsil550r1qktz/Daily-Update-2017-02-08.png?dl=1)
 
 <hr>
 ## `Mini-Sprint-Kickoff-Overview`
@@ -71,3 +71,7 @@
 <hr>
 ## `Daily-Update-2017-02-05`
 ![Daily-Update-2017-02-05](https://www.dropbox.com/s/u0ffuezt0ez915b/Daily-Update-2017-02-05.png?dl=1)
+
+<hr>
+## `Daily-Update-2017-02-08`
+![Daily-Update-2017-02-08](https://www.dropbox.com/s/bdjsil550r1qktz/Daily-Update-2017-02-08.png?dl=1)
