@@ -1,8 +1,8 @@
-# PhoenixOne Documentation Mini-Sprint
+# PhoenixOne Update Documentation
 
 <hr>
-## `Latest-Daily-Update`
-![Latest-Daily-Update](https://www.dropbox.com/s/hm4n1wruq93po02/Daily-Update-2017-04-21.png?dl=1)
+## `Latest-Weekly-Update`
+![Latest-Weekly-Update](https://www.dropbox.com/s/o8mgto0vr8ph0u2/Weekly-Update-2017-09-18.png?dl=1)
 
 <hr>
 ## `Mini-Sprint-Kickoff-Overview`
@@ -79,3 +79,7 @@
 <hr>
 ## `Daily-Update-2017-04-21`
 ![Daily-Update-2017-04-21](https://www.dropbox.com/s/hm4n1wruq93po02/Daily-Update-2017-04-21.png?dl=1)
+
+<hr>
+## `Weekly-Update-2017-09-18`
+![Weekly-Update-2017-09-18](https://www.dropbox.com/s/o8mgto0vr8ph0u2/Weekly-Update-2017-09-18.png?dl=1)
