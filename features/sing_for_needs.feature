@@ -8,9 +8,13 @@ Feature: Sing for Needs
   So that I can see a range of deserving causes and be inspired to contribute to them
   I would like to watch/listen to performances from talented folks advocating for particular causes
 
-  As a deserving cause
+  As a deserving cause (individual or organisation)
   So we can meet our worthy goals
   I would like to be able accept donations from donors inpsired by moving performances
+  
+  As a deserving cause (individual or organisation)
+  So we can meet our worthy goals
+  I would like to be connected to performers who could support our cause (be able browse performers)
 
 
 
