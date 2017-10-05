@@ -4,7 +4,7 @@
 
 ## `Latest-Weekly-Update`
 
-![Latest-Weekly-Update](https://dl.dropbox.com/s/o8mgto0vr8ph0u2/Weekly-Update-2017-09-18.png)
+![Latest-Weekly-Update](https://dl.dropbox.com/s/d5kvgw02qsfwaen/Weekly-Update-2017-10-02.png)
 <br>
 <hr>
 
@@ -125,3 +125,9 @@
 ## `Weekly-Update-2017-09-18`
 
 ![Weekly-Update-2017-09-18](https://dl.dropbox.com/s/o8mgto0vr8ph0u2/Weekly-Update-2017-09-18.png)
+<br>
+<hr>
+
+## `Weekly-Update-2017-10-02`
+
+![Weekly-Update-2017-10-02](https://dl.dropbox.com/s/d5kvgw02qsfwaen/Weekly-Update-2017-10-02.png)
