@@ -1,4 +1,4 @@
-Feature: Contribute Performance
+Feature: Performing Artist (Contributes Performance)
 
   As a performing artist
   So that I can help some deserving causes (which could be myself)
