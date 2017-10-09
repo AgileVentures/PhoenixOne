@@ -1,8 +1,8 @@
 Feature: Sing for Needs
 
   As a performing artist
-  So that I can help some deserving causes 
-  I would like to be able to performance to be visible online and encourage donations to the causes
+  So that I can help some deserving causes (which could be muyself)
+  I would like to be able to make my performance visible online and encourage donations to the causes
 
   As a potential donor
   So that I can see a range of deserving causes and be inspired to contribute to them
@@ -15,6 +15,22 @@ Feature: Sing for Needs
   As a deserving cause (individual or organisation)
   So we can meet our worthy goals
   I would like to be connected to performers who could support our cause (be able browse performers)
+
+
+## Overview of Sing for Needs
+
+StakeHolders:
+
+1) Performing Artists
+2) Potential Donors
+3) Existing Donors
+4) Deserving Causes
+
+Vision:
+
+To make it as easy as possible for artists to contribute media to support deserving causes in order to recieve donations.
+
+To make it as easy as possible for those in need to share media of themselves performing or others performing in order to receive donations to support their cause.
 
 
 
