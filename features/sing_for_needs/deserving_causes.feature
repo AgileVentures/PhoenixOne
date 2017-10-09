@@ -15,4 +15,23 @@ Feature: Deserving Causes
   Scenario: Browser performing artists
   
   # sign in/sign up comes at last possible moment  
+  
+  # example of having high level stories in rspec
+  
+  ```rb
+  feature 'deserving causes' do
+  
+    scenario 'signing up' do
+    
+      given_I_am_logged_in
+      when_I_click_the_signup_button
+      then_I_see_a_welcome_banner
+      
+    end
+  end
+  ```    
+      
  
+
+
+
